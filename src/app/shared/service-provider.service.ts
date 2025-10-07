@@ -6,7 +6,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http'
 })
 export class ServiceProviderService {
 
-  // server: string = 'http://localhost:9300/'; 
+  // server: string = 'http://localhost:9400/'; 
   // dev
   // server: string = 'http://122.155.223.63/td-khubdee-api/';
   // product
