@@ -6,11 +6,11 @@ import { HttpClient, HttpHeaders } from '@angular/common/http'
 })
 export class ServiceProviderService {
 
-  // server: string = 'http://localhost:6200/'; 
+  // server: string = 'http://localhost:9300/'; 
   // dev
   // server: string = 'http://122.155.223.63/td-khubdee-api/';
   // product
-  server: string = 'https://gateway.we-builds.com/nakhonphanom-api/';
+  server: string = 'https://gateway.we-builds.com/kaset-mall-api/';
 
   constructor(private http: HttpClient) { }
 
