@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 
 html, body { height: 100%; }
-body { font-size: 12px !important; margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background: #bf9001; }
+body { font-size: 12px !important; margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background: #1b5738; }
 span { font-size: 12px !important; }
 a { font-size: 12px !important; }
 label { font-size: 12px !important; }
@@ -87,19 +87,19 @@ tr:nth-child(even) {
 
 /* DDPM */
 .background-sidebar {
-    background: #bf9001 !important;
+    background: #1b5738 !important;
 }
 .background-header {
-    background: linear-gradient(45deg, #edca5a, #bf9001) !important;
+    background: linear-gradient(45deg, #528c6e, #1b5738) !important;
 }
 .background-footer {
-    background: linear-gradient(45deg, #edca5a, #bf9001) !important;
+    background: linear-gradient(45deg, #528c6e, #1b5738) !important;
 }
 .sidenav li a.active {
     margin: 0;
     color: #fff;
-    background: linear-gradient(45deg, #bf9001, #edca5a) !important;
-    box-shadow: 3px 3px 20px 0 #b8a25f !important;
+    background: linear-gradient(45deg, #1b5738, #528c6e) !important;
+    box-shadow: 3px 3px 20px 0 #72ac8e !important;
 }
 
 /* DOPA */
